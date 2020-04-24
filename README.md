@@ -33,7 +33,7 @@ The user should be able to like repositories.
 
 1. Run `react-native run-android` to start the application
 
-* In case the above step causes the build to fail, start the Emulator from Android Studio first, then repeat step 1 above.
+*In case the above step causes the build to fail, start the Emulator from Android Studio first, then repeat step 1 above.*
   ---
 
 Made with :heart: by Yago!
